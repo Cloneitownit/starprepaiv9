@@ -2,6 +2,7 @@
   "name": "starprep-ai",
   "private": true,
   "version": "48.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
